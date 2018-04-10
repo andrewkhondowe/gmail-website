@@ -1,0 +1,16 @@
+body{
+  background-color: darkgrey;
+  background-repeat: repeat;
+}
+p1{
+  margin-left: auto;
+  color: white;
+
+}
+small{
+  padding-left: 35px;
+  color: white;
+}
+form1 {
+  color: green;
+}
